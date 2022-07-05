@@ -1,0 +1,4 @@
+[00:01:35]: [Join Announcement] Jack_x10
+[00:02:04]: [Join Announcement] Goon9
+[00:03:36]: [Leave Announcement] Jack_x10
+[00:03:41]: [Leave Announcement] Goon9
